@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/JoshData/python-email-validator/commit/4ac100ec9a45dbb8432bc9bf7c49e96591854846",
       "git:hexsha": "4ac100ec9a45dbb8432bc9bf7c49e96591854846",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/JoshData/python-email-validator/commit/cf4d78f15f1e1ce273fddc7ff88d34a358a75e12",
